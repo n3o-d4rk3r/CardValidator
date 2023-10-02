@@ -1,4 +1,4 @@
-package com.yario.app.utility;
+package com.yaptip.app.utility;
 
 import java.util.Calendar;
 import java.util.regex.Pattern;

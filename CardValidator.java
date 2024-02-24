@@ -1,4 +1,4 @@
-package com.yaptip.app.utility;
+package com.kabirsplanet.app.utility;
 
 import java.util.Calendar;
 import java.util.regex.Pattern;
